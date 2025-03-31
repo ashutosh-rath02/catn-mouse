@@ -1,4 +1,4 @@
-import { CatMouseGame } from "@/components/cat-mouse-game/CatMouseGame";
+import { CatMouseGame } from "@/components/CatMouseGame";
 
 export default function Home() {
   return (
